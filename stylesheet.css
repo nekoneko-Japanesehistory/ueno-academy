@@ -1,0 +1,159 @@
+ul {
+  list-style: none;
+}
+
+.header {
+  background-color: #335719;
+  color: #fff;
+  height: 90px;
+}
+
+.header-logo {
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.header-list li {
+  float: left;
+  padding: 33px 20px;
+}
+
+.top-wrapper {
+  padding: 130px 0 100px 0;
+  background-image: url(https://lh3.googleusercontent.com/pw/AL9nZEXUYggFxI9oV_6QdKVMET9JNB26MNuwD_g-y-M6iBJbIbpatqmdJcV7vJdqZAQfO1_bgMsT8xciL50RhT8uLP3SwzbqTJg1Yw94FRHMD8-jKySu_lexjo6gminkuJfGchdLdqABDWsc6QkYeZYLPcId=w1920-h832-no?authuser=0);
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+.container {
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.top-wrapper h1 {
+  font-size: 60px;
+  letter-spacing: 5px;
+}
+
+.lesson-wrapper {
+  height: 450px;
+  padding-bottom: 80px;
+  background-color: #fff;
+  text-align: center;
+}
+
+.heading {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  color: #5f5d60;
+}
+
+.heading h2 {
+  font-weight: bold;
+  font-size: 30px;
+  color: #000;
+}
+
+span {
+  color: #008d56;
+
+}
+
+.lesson {
+  float: left;
+  width: 33%;
+}
+
+.lesson-icon {
+  position: relative;
+}
+
+.txt-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 13px;
+  color: #000;
+}
+
+.heading h3 {
+  font-weight: normal;
+}
+
+.content h2 {
+  font-size: 40px;
+  margin-left: 60px;
+  border-bottom: 1px solid #008d56;
+}
+
+.content p {
+  margin-left: 60px;
+  font-size: 20px;
+}
+
+.btn {
+  margin-left: 60px;
+  padding: 4px;
+  color: #fff;
+  background-color: #335719;
+  text-decoration: none;
+}
+
+.School-Information {
+  padding-top: 60px;
+}
+
+.Blog {
+  padding-top: 60px;
+}
+
+.Inquiry{
+  padding-top: 60px;
+}
+
+.contact-form {
+  padding-top: 10px;
+  margin-left: 60px;
+}
+
+.contact-form p {
+  padding-left: opx;
+}
+
+input, textarea {
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 20px 20px 20px 0px;
+  font-size: 18px;
+  border: 1px solid #dee7ec;
+}
+
+.contact-submit {
+  margin-top: 10px;
+  background-color: #008d5680;
+  color: #fff;
+}
+
+.footer {
+  background-color: #335719;
+  color: #fff;
+  height: 120px;
+  padding: 40px;
+  margin-top: 100px;
+}
+
+.footer-logo {
+  float: left;
+  font-size: 32px;
+}
+
+.footer-list {
+  float: right;
+}
+
+.footer-list li {
+  padding-bottom: 20px;
+}
